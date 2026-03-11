@@ -1,0 +1,16 @@
+{
+    "name": null,
+    "input_variables": [
+        "task",
+        "user_name"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "\nYou are an AI assistant helping {user_name}.\nYour main task is {task}.\nProvide clear ",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}
